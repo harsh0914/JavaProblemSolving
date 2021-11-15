@@ -1,0 +1,12 @@
+Problem1: 
+- For an ecommerce website assume there exist 2 methods List<Person> getFriends(Person person) and List<Item> getPurchases(Person person)
+- Write a method that would return a list of items a persons friends have bought but they themselves have not bought
+- Ensure that the list is sorted in the desc order of number of times an item was sold in that list.
+
+Problem2: Write a method that returns the available locker location in a locker facility. Lockers can be S/M/L return only valid lockers.
+If all small are full you can return a medium locker for a small package
+
+Problem3: Design a online multiplayer game system .. how would you notify the change in state to the players.
+
+Problem4: In a NxN matrix all elements are either 0's or 1's there are nx1's and n^2x0's 
+write : getter(i,j), setter(i,j), bool hasNext() and int next()
